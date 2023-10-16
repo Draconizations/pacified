@@ -70,7 +70,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 3,
+          "weight": 4,
           "name": "minecraft:tide_armor_trim_smithing_template",
           "conditions": [
             {
