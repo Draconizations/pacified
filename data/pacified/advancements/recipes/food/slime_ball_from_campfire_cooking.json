@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_poisonous_potato": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:poisonous_potato"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pacified:slime_ball_from_campfire_cooking"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_poisonous_potato"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pacified:slime_ball_from_campfire_cooking"
+    ]
+  },
+  "sends_telemetry_event": false
+}
