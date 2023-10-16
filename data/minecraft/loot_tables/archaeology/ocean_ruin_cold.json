@@ -7,12 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:trident",
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
+          "name": "minecraft:trident"
         },
         {
           "type": "minecraft:item",
