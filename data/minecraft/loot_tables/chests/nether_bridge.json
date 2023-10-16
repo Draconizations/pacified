@@ -132,16 +132,11 @@
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 12
+          "weight": 15
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:rib_armor_trim_smithing_template"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:piglin_head"
         }
       ]
     },
