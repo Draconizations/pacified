@@ -168,6 +168,11 @@
           "type": "minecraft:item",
           "weight": 3,
           "name": "minecraft:music_disc_strad"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:music_disc_11"
         }
       ],
       "conditions": [
